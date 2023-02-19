@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:ui_chat/widgets/CategorySelector.dart';
 import 'package:ui_chat/widgets/Contacts.dart';
+import 'package:ui_chat/widgets/RecentChats.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -55,6 +56,7 @@ class _HomeScreenState extends State<HomeScreen> {
               child: Column(
                 children: <Widget>[
                   Favorite_Contacts(),
+                  RecentChats(),
                 ],
               ),
             ),
