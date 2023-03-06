@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 class Themes {
   static final darkTheme = ThemeData(
       scaffoldBackgroundColor: Colors.grey[800],
+      primaryColorDark: Colors.grey[700],
       buttonColor: Colors.white.withOpacity(0.3),
       primaryColor: Colors.green,
       textTheme: const TextTheme(
@@ -36,6 +37,7 @@ class Themes {
       scaffoldBackgroundColor: Colors.grey[200],
       buttonColor: Colors.grey.withOpacity(0.3),
       primaryColor: Colors.green,
+      primaryColorDark: Colors.grey[350],
       textTheme: const TextTheme(
         headlineMedium: TextStyle(color: Colors.black),
         titleMedium: TextStyle(
