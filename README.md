@@ -1,17 +1,12 @@
-# ui_chat
+# Flutter UI Chat 
 
-A new Flutter project.
+## Giới thiệu: 
+Project là giao diện của một ứng dụng chat gồm : 
+- màn hình ChatScreen (bao gồm theo dõi danh sách tin nhắn chờ, các liên hệ yêu thích)
+- màn hình MessageScreen ( hiển thị nội dung tin nhắn)
 
-## Getting Started
+Project còn có thể chuyển dark theme hoặc light theme tùy theo nhu cầu của người sử dụng
 
-This project is a starting point for a Flutter application.
+## Một số hình ảnh mô tả:
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# UI-Chat-by-Flutter
